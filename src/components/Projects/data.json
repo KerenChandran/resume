@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "company": "React Toolbox",
+      "details": [
+        "Fixed bugs and enhanced components, such as adding required and hint attributes to input field",
+        "Updated documentation and verified property types for all components"
+      ],
+      "name": "React Toolbox",
+      "subtitle": "Open source React component library adhering to Google’s Material Design",
+      "url": "http://react-toolbox.com/#/"
+    },
+    {
+      "company": "WaterBud",
+      "details": [
+        "Designed and implemented a web interface to display water usage with graphs and relative measurements and waste water reduction tips, to help households understand their consumption patterns"
+      ],
+      "name": "WaterBud",
+      "subtitle": "Faucet sensors aimed to reduce water waste by monitoring consumption patterns",
+      "url": "https://github.com/patnaa2/waterbud"
+    },
+    {
+      "company": "Intellisoft Development Inc.",
+      "details": [
+        "Developed a project management tool to track new and existing projects that helped client prioritize projects and increase overall efficiency of workflow"
+      ],
+      "name": "Project Management Tool"
+    },
+    {
+      "company": "George Brown College",
+      "details": [
+        "Improved an equipment management system to generate financial reports based on expected equipment lifespan and estimated replacement cost, allowing executives to make more informed decisions on A/V equipment"
+      ],
+      "name": "Equipment Lifetime Tracker",
+      "url": "https://www.georgebrown.ca/"
+    }
+  ]
+}
