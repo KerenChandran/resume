@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "name": "Front End",
+      "skills": [
+        "React",
+        "Angular",
+        "Redux",
+        "Redux Saga",
+        "Redux Thunk",
+        "Nuclear",
+        "Bootstrap",
+        "jQuery",
+        "Javascript (ES6)",
+        "HTML",
+        "CSS",
+        "Websockets"
+      ]
+    },
+    {
+      "name": "Back End",
+      "skills": [
+        "C#",
+        "Node",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "skills": [
+        "Webpack",
+        "Gulp",
+        "Jest",
+        "Karma",
+        "Mocha",
+        "Chai",
+        "Enzyme",
+        "Git"
+      ]
+    },
+    {
+      "name": "Concepts",
+      "skills": [
+        "Database Systems",
+        "Data Structures and Algorithms",
+        "Flux",
+        "MVC",
+        "Operating Systems",
+        "Software Design and Architecture"
+      ]
+    }
+  ]
+}
