@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "company": "ecobee",
+      "details": [
+        "More details coming soon!"
+      ],
+      "endDate": "Aug 2017",
+      "position": "Front End Developer",
+      "startDate": "May 2017",
+      "url": "https://www.ecobee.com/"
+    },
+    {
+      "company": "Riviera Partners",
+      "details": [
+        "Designed and implemented a responsive web interface to inform candidates of their job search progress and trending skills in the market",
+        "Designed and developed a responsive web interface for Messaging and Notifications on recruiter, client and candidate platforms"
+      ],
+      "endDate": "Dec 2016",
+      "position": "Full Stack Engineer",
+      "startDate": "Aug 2016",
+      "url": "https://rivierapartners.com"
+    },
+    {
+      "company": "Innovasium Digital",
+      "details": [
+        "Designed and prototyped a customizable dashboard using React, Redux and Ruby on Rails",
+        "Improved existing technological stack to use both Redux architecture and Ruby on Rails"
+      ],
+      "endDate": "Apr 2016",
+      "position": "Web Application Developer",
+      "startDate": "Jan 2016",
+      "url": "http://www.innovasium.com/"
+    },
+    {
+      "company": "SMART Technologies",
+      "details": [
+        "Assisted Lesson Activity Builder Collaboration (LAB-C) team with development of Shout-it-out Activity",
+        "Demonstrated strong leadership skills by delegating an intern team to develop and ensured teammates were able to complete tasks and effectively meet deadlines"
+      ],
+      "endDate": "Aug 2015",
+      "position": "Software Developer",
+      "startDate": "May 2015",
+      "url": "https://home.smarttech.com/"
+    }
+  ]
+}
